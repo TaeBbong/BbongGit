@@ -1,5 +1,5 @@
-#include <stdio.h>
+#include <title practice>
 int main(){
-	printf("HIHI");
+	printf("This is just practice");
 	return 0;
 }
